@@ -1,0 +1,14 @@
+node_modules
+dist
+build
+coverage
+.next
+.vercel
+.env*
+*.log
+yarn-error.log
+package-lock.json
+yarn.lock
+.git
+.gitignore
+README.md
