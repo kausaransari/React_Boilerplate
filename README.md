@@ -53,7 +53,7 @@ Follow these steps to get started with the project:
 
 1. **Clone the repository:**
    ```bash
-   git clone <repository-url>
+   git clone git@github.com:kausaransari/React_Boilerplate.git
    cd reactboilerplate
    ```
 
